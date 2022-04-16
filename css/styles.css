@@ -1,0 +1,247 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #757575;
+}
+.header-list .link {
+  color: #757575;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 400;
+}
+
+.header-list .link:hover,
+.header-list .link:focus {
+  color: #2196f3;
+}
+.header-list .link:active {
+  color: #2196f3;
+}
+
+/* footer */
+
+.footer-list {
+  font-style: initial;
+}
+.footer-list .address {
+  color: #ffffff;
+}
+.footer-list .address:hover,
+.footer-list .address:focus {
+  color: #2196f3;
+}
+.footer-list .address:active {
+  color: #2196f3;
+}
+.footer-list .link {
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-list .link:hover,
+.footer-list .link:focus {
+  color: #2196f3;
+}
+.footer-list .link:active {
+  color: #2196f3;
+}
+
+/* button */
+.main-list .button {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.main-list .button:hover,
+.main-list .button:focus {
+  color: #2196f3;
+}
+.main-list .button:active {
+  color: #2196f3;
+}
+.main-list .main-button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.main-list .main-button:hover,
+.main-list .main-button:focus {
+  color: #212121;
+}
+.main-list .main-button:active {
+  color: #212121;
+}
+
+/* contact */
+.contact .contact-studio {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 400;
+}
+.contact .contact-studio:hover,
+.contact .contact-studio:focus,
+.contact .contact-studio:active {
+  color: #2196f3;
+}
+.contact .contact-portfolio {
+  color: #2196f3;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 400;
+}
+.contact .contact-main {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 400;
+}
+.contact .contact-main:hover,
+.contact .contact-main:focus,
+.contact .contact-main:active {
+  color: #2196f3;
+}
+
+/* figcaption */
+
+.figcaption .paragraph {
+  color: #212121;
+  font-size: 18px;
+  line-height: 2, 0;
+  font-weight: 700;
+}
+.figcaption .second-paragraph {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1, 8;
+  font-weight: 400;
+}
+
+.footer {
+  background-color: #2f303a;
+  font-size: 14px;
+  line-height: 1, 7;
+  font-weight: 400;
+}
+
+/* index */
+/* main */
+
+.main-index .main-paragraph {
+  color: #ffffff;
+  font-size: 44px;
+  line-height: 1, 3;
+  font-weight: 900;
+  text-align: center;
+}
+.main-index .button {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-size: 16px;
+  line-height: 1, 9;
+  font-weight: 700;
+}
+.main-index .button:hover,
+.main-index .button:focus,
+.main-index .address:active {
+  color: #212121;
+}
+.main-index .higher-section {
+  background-color: #2f303a;
+}
+
+/* contact */
+
+.nav-contact .contact-studio {
+  color: #2196f3;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 500;
+}
+.nav-contact .contact-portfolio {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 500;
+}
+.nav-contact .contact-main {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 500;
+}
+.nav-contact .contact-portfolio:hover,
+.nav-contact .contact-portfolio:focus,
+.nav-contact .contact-portfolio:active {
+  color: #2196f3;
+}
+.nav-contact .contact-main:hover,
+.nav-contact .contact-main:focus,
+.nav-contact .contact-main:active {
+  color: #2196f3;
+}
+.main-index .paragraph {
+  color: #212121;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 700;
+}
+
+.main-index .p {
+  color: #757575;
+  font-size: 14px;
+  line-height: 1, 7;
+  font-weight: 700;
+}
+.main-index .work {
+  color: #212121;
+  font-size: 36px;
+  line-height: 1, 16;
+  font-weight: 700;
+}
+.main-index .name {
+  color: class= "name";
+  font-size: 16px;
+  line-height: 1, 18;
+  font-weight: 500;
+}
+.main-index .position {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1, 18;
+  font-weight: 400;
+}
+
+/* footer */
+
+.footer-index {
+  font-style: initial;
+  background-color: #2f303a;
+}
+.footer-index .address {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1, 7;
+  font-weight: 400;
+}
+.footer-index .link {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+  line-height: 1, 7;
+  font-weight: 400;
+}
+.header {
+  color: #212121;
+  font-family: Raleway, sans-serif;
+  font-size: 26px;
+  line-height: 1, 19;
+  font-weight: 700;
+}
+.header .span {
+  color: #2196f3;
+}
+.footer-span {
+  color: #ffffff;
+  font-family: Raleway, sans-serif;
+  font-size: 26px;
+  line-height: 1, 19;
+  font-weight: 700;
+}
+.footer-span .span {
+  color: #2196f3;
+}
